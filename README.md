@@ -1,8 +1,8 @@
 # The Star Wars API
 
-## React, CSS, Hooks - useState, useCallback, The Star Wars API
+## React, CSS, Hooks - useState, useEffect, useCallback, useRef, Firebase
 
-### Demo - https://newtitle.onrender.com
+### Demo - https://starwarsapi-k1vr.onrender.com
 
 ---
 
